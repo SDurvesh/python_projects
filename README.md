@@ -17,6 +17,7 @@ Before you begin, ensure you have met the following requirements:
 - You have an AWS account and an EC2 instance running Ubuntu Server.
 - You have SSH access to your EC2 instance.
 - You have the necessary permissions to install software on the EC2 instance.
+- Expose port from inbound permissions to ensure proper hosting
 - generate your API_Key from openweatherMap.org
 
 ## Installation
